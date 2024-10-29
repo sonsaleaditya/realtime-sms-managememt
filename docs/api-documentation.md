@@ -83,7 +83,7 @@ http://localhost:5000/api
 - **Request Body**:
   ```json
   {
-    "phoneNumber": "+919067409034",
+    "phoneNumber": "+91123584544",
     "message": "Hello RUTS",
     "country": "India",
     "operator": "Jio"

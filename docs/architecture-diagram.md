@@ -64,11 +64,3 @@ DATABASE
 ```
 
 ---
-
-### Additional Tips for Creating the Diagram
-
-- **Use Color Coding**: Distinguish between client, server, and external services.
-- **Arrows and Labels**: Use arrows to show request flows, labeling each arrow with request types (e.g., `POST /sms/send`).
-- **Icons for Clarity**: Use simple icons for databases, API services, and frontend/backend to enhance readability.
-
----
