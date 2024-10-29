@@ -1,3 +1,4 @@
+
 ## 2. Architecture Diagram
 
 ### Components to Include in the Diagram
@@ -21,6 +22,7 @@ For this architecture, you can use the following structure to highlight differen
 
 ### Diagram Structure
 
+```plaintext
 CLIENT SIDE
 ----------------------------------------------------------
 |   Web Interface (e.g., React or other frontend)        |
@@ -60,7 +62,4 @@ DATABASE
 |   ---------------------------------------------------- |
 |   | Users, CountryOperators, SMSLogs, Processes       | |
 ----------------------------------------------------------
-
 ```
-
----
